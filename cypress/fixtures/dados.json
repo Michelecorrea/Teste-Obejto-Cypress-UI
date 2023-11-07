@@ -1,0 +1,12 @@
+{
+  "nome": "Michele",
+  "sobrenome": "Correa",
+  "email": "testemichelecorrea@teste.com",
+  "senha": "teste1234",
+  "endereco": "Rua Massau",
+  "cidade": "Pinheiros",
+  "estado": "São Paulo",
+  "pais": "Brasil",
+  "cep": "06653000",
+  "telefone": "11987890989"
+}
